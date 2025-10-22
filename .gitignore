@@ -1,0 +1,17 @@
+# Môi trường ảo Python
+/odoo/venv/
+venv/
+
+# File biên dịch Python
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# Cấu hình IDE (tùy chọn)
+.vscode/
+.idea/
+
+# File hệ thống macOS
+.DS_Store
